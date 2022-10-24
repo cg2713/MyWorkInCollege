@@ -1,0 +1,12 @@
+class tree node{
+    data;
+    tree node* parent;
+    tree node* frist child;
+    tree node* second child;
+};
+
+class binary tree{
+    data;
+    binary tree* parent;
+    binary tree node* left, right;
+}
